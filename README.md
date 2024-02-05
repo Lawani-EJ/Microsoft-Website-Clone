@@ -29,18 +29,18 @@ cd frontend_assignment1
 Curious to see what I've been up to? Check out these snapshots of my project in action:
 
 1. **Landing Page:**
-![Screenshot-1](<screenshots/Screenshot 2024-02-05 100848.png>)
+![Screenshot-1](<.screenshots/Screenshot 2024-02-05 100848.png>)
 
 2. **Responsive Wonder:**
-![Screenshot-2](<screenshots/Screenshot 2024-02-05 101053.png>)
+![Screenshot-2](<.screenshots/Screenshot 2024-02-05 101053.png>)
 
 3. **Interactive Buttons:**
-![Screenshot-3](<screenshots/Screenshot 2024-02-05 102412.png>)
+![Screenshot-3](<.screenshots/Screenshot 2024-02-05 102412.png>)
 
 4. **Image Grid Bliss:**
-![Screenshot-4](<screenshots/Screenshot 2024-02-05 101121.png>)
+![Screenshot-4](<.screenshots/Screenshot 2024-02-05 101121.png>)
 
 5. **Footer Fun:**
-![Screenshot-5](<screenshots/Screenshot 2024-02-05 101151.png>)
+![Screenshot-5](<.screenshots/Screenshot 2024-02-05 101151.png>)
 
 Feeling the excitement? Dive in and create your own masterpiece! 🎨✨
