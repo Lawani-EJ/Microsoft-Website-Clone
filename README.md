@@ -1,4 +1,4 @@
-# 🌈 My Microsoft Homepage Recreation Project
+# Microsoft Homepage Recreation Project
 
 Hey there, fellow adventurer! 🚀 Welcome to my happy place, where I'm on a quest to recreate the magic of the official Microsoft webpage. 😄 Join me in this joyous journey of coding, creativity, and a touch of whimsy using HTML, CSS, and a sprinkle of JavaScript.
 
@@ -25,22 +25,6 @@ cd frontend_assignment1
 ```
 
 ## 🌟 Screenshots
+![image](https://github.com/user-attachments/assets/e69e4451-a08c-4e7a-ac9c-76310140e834)
 
-Curious to see what I've been up to? Check out these snapshots of my project in action:
-
-1. **Landing Page:**
-![Screenshot-1](./screenshots/Screenshot%202024-02-05%20100848.png)
-
-2. **Responsive Wonder:**
-![Screenshot-2](./screenshots/Screenshot%202024-02-05%20101053.png)
-
-3. **Interactive Buttons:**
-![Screenshot-3](./screenshots/Screenshot%202024-02-05%20101121.png)
-
-4. **Image Grid Bliss:**
-![Screenshot-4](./screenshots/Screenshot%202024-02-05%20101121.png)
-
-5. **Footer Fun:**
-![Screenshot-5](./screenshots/Screenshot%202024-02-05%20102412.png)
-
-Feeling the excitement? Dive in and create your own masterpiece! 🎨✨
+![image](https://github.com/user-attachments/assets/1b9cc4df-83ee-49be-9087-67603db7e5d4)
